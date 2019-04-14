@@ -96,8 +96,8 @@ a:link {
   text-align: left;
   font-size: 70%;
   }
-// The social media icons code is adapted from (https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)
-.fa {
+/* The social media icons code is adapted from (https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)*/
+a {
   padding: 20px;
   font-size: 30px;
   width: 30px;
