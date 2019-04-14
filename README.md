@@ -1,5 +1,4 @@
-# Udacity-Portfolio
-Udacity Project - Building a portfolio from a mockup (FEND) 
+Front End Web Portfolio of Anna Ikonomova
 # Contributor
 Anna Ikonomova
 ani.strandjeva@gmail.com
