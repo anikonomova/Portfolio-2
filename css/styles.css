@@ -67,12 +67,17 @@ a:link {
 .project {
   margin: auto;
   max-width: 100%;
-}
+  }
 .projectNames {
   color: #2d3c49;
-  font-size: 150%;
+  font-size: 22px;
   text-align: center;
-}
+  }
+
+.projectNames:hover {
+      color: red;
+      }
+
 .mockup,
 .animal,
 .pam,
@@ -97,7 +102,7 @@ a:link {
   font-size: 70%;
   }
 /* The social media icons code is adapted from (https://www.w3schools.com/howto/howto_css_social_media_buttons.asp)*/
-a {
+.fa {
   padding: 20px;
   font-size: 30px;
   width: 30px;
